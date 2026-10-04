@@ -1,0 +1,8 @@
+{
+  "name": "The latest development in astronomy",
+  "description": "An interactive cosmic journey exploring exoplanets, black holes, gravitational waves, AI in astronomy, multi-wavelength observations, and the future of astrophysics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
